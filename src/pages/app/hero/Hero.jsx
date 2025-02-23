@@ -12,13 +12,11 @@ function Hero() {
         />
       </section>
       <section className={style.content}>
-        <h4>Are you ready to ?</h4>
-        <h1>Dream, Code, Achieve</h1>
         <h3>Innovate with Every Keystroke</h3>
-        <p>
+        <h5>
           See how experienced developers solve problems in real-time. Watching scripted
           tutorials is great, but understanding how developers think is invaluable.
-        </p>
+        </h5>
       </section>
     </header>
   );
